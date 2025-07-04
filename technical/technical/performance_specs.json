@@ -1,0 +1,35 @@
+[
+  {
+    "section": "Performance Specifications",
+    "subsections": [
+      {
+        "id": "perf-001",
+        "title": "Physical Properties",
+        "content": {
+          "water_retention": "450-500% by weight",
+          "drainage_rate": "0.8 L/min per m² at 30° slope",
+          "thermal_conductivity": "0.038 W/m·K",
+          "compression_recovery": ">92% after 50kPa load",
+          "comparative_data": {
+            "vs_soil": "45% higher water retention",
+            "vs_coco_coir": "3x longer lifespan"
+          }
+        }
+      },
+      {
+        "id": "perf-002",
+        "title": "Chemical Properties",
+        "content": {
+          "ph_stability": "6.0-6.5 (self-buffering)",
+          "cation_exchange_capacity": "12-15 cmol/kg",
+          "nutrient_release_profile": "Controlled-release mechanism",
+          "safety_certifications": [
+            "RoHS 3 compliant",
+            "REACH Annex XVII",
+            "US EPA Safer Choice"
+          ]
+        }
+      }
+    ]
+  }
+]
