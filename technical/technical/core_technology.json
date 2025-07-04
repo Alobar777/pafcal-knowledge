@@ -1,0 +1,55 @@
+[
+  {
+    "section": "Core Technology",
+    "subsections": [
+      {
+        "id": "tech-001",
+        "title": "Material Composition",
+        "content": {
+          "base_material": "Recycled polyethylene terephthalate (rPET) fibers",
+          "material_sources": [
+            "Food-grade PET from bottle recycling",
+            "Toyota Material Handling Patent Portfolio (2018-2023)"
+          ],
+          "additives": [
+            "Mineral-based pH stabilizers (proprietary blend)",
+            "Micro-porous silica coating",
+            "Ion-exchange resins"
+          ],
+          "patent_references": [
+            "JP2018153354A - Synthetic soil medium with controlled ion release",
+            "US20210029921A1 - Fibrous cultivation substrate"
+          ],
+          "technical_sources": [
+            "Suntory Midorie Technical White Paper v3.2",
+            "Journal of Sustainable Materials Processing, 6(2)"
+          ]
+        }
+      },
+      {
+        "id": "tech-002",
+        "title": "Manufacturing Process",
+        "content": {
+          "production_flow": [
+            "PET recycling",
+            "Fiber extrusion",
+            "Surface texturing",
+            "Mineral coating",
+            "Quality sorting"
+          ],
+          "facility": "ISO 14001-certified plant in Shanghai",
+          "key_parameters": {
+            "fiber_diameter": "18-22μm",
+            "porosity": "87% ± 3%",
+            "density": "0.32 g/cm³"
+          },
+          "quality_control": [
+            "ASTM D8332-20 compliance testing",
+            "Automated optical sorting",
+            "Batch traceability"
+          ]
+        }
+      }
+    ]
+  }
+]
